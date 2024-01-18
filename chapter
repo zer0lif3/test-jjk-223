@@ -1,0 +1,17 @@
+{
+  "title": "Jujutsu Kaisen",
+  "description": "N/A",
+  "artist": "Akutami Gege",
+  "author": "Akutami Gege",
+  "cover": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ef/Volume_25.png/revision/latest?cb=20240103235507",
+  "chapters": {
+    "223": {
+      "title": "Devil's Ground, Shinjuku Showdown ①",
+      "volume": "25",
+      "groups": {
+        "zl": "/proxy/api/imgur/chapter/0eAPOpS/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
